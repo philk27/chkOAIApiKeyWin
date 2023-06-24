@@ -10,13 +10,18 @@ This is a PowerShell script that checks an OpenAI API key and the available mode
 
 ## Get an API key
 Go to OpenAI's Platform website at https://platform.openai.com and sign in with an OpenAI account.
+
 Click your profile icon at the top-right corner of the page and select "View API Keys."
+
 Click "Create New Secret Key" to generate a new API key.
+
 You will need a paid key to use most services so set up billing and billing constraints
 
 GPT-4 waitlist: https://openai.com/waitlist/gpt-4-api
+
 You cannot use gpt-4 models unless you have been granted access from the wait list
-At the time of writing there is noway to see where you are in the wait list or accelerate access.  Be patient!
+
+At the time of writing, there is no way to see where you are on the wait list or accelerate access.  Be patient!
 
 What is an API key? https://www.howtogeek.com/343877/what-is-an-api/
 
